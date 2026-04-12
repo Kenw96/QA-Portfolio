@@ -49,18 +49,18 @@ Basic Arithmetic Operations
 | TS001 | 8 | Pass | Works as expected, no issues. | 
 | TS002 | 5 | Pass | Works as expected, no issues. |
 | TS003 | 12 | Pass | Works as expected, no issues. |
-| TS004 | [4] | Pass | [Notes] | Works as expected, no issues. |
-| TS005 | [7] | Pass | [Notes] | Works as expected, no issues. |
-| TS006 | [0] | Pass | [Notes] | Works as expected, no issues. |
-| TS007 | [-4] | Pass | [Notes] | Works as expected, no issues. |
-| TS008 | [6] | Pass | [Notes] | Works as expected, no issues. |
-| TS009 | [error message] | Pass | [Notes] | Works as expected, no issues. |
-| TS010 | [4.0] | Pass | [Notes] | Works as expected, no issues. |
-| TS011 | [Nothing appears] | Fail | [Notes] | Outcome was not as expected, nothing was able to show up on the application. |
-| TS012 | [Addition sign is erased  for a proper equation  ] | Fail | [Notes] | Outcome was not as expected do to application fail-safe features. | 
-| TS013 | [0 Appears] | Pass | [Notes] | Works as expected, no issues. |
-| TS014 | [1000000] | Pass | [Notes] | Works as expected, no issues. |
-| TS015 | [6] | Pass | [Notes] | Works as expected, no issues. |
+| TS004 | [4] | Pass | Works as expected, no issues. |
+| TS005 | [7] | Pass | Works as expected, no issues. |
+| TS006 | [0] | Pass | Works as expected, no issues. |
+| TS007 | [-4] | Pass | Works as expected, no issues. |
+| TS008 | [6] | Pass | Works as expected, no issues. |
+| TS009 | [error message] | Pass | Works as expected, no issues. |
+| TS010 | [4.0] | Pass | Works as expected, no issues. |
+| TS011 | [Nothing appears] | Fail | Outcome was not as expected, nothing was able to show up on the application. |
+| TS012 | [Addition sign is erased  for a proper equation  ] | Fail | Outcome was not as expected do to application fail-safe features. | 
+| TS013 | [0 Appears] | Pass | Works as expected, no issues. |
+| TS014 | [1000000] | Pass | Works as expected, no issues. |
+| TS015 | [6] | Pass | Works as expected, no issues. |
 
 ---
 
